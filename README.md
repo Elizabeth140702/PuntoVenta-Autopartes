@@ -25,4 +25,4 @@ en agregar podemos añadir un nuevo registro y en cuanto a la vista, tenemos lo 
 
 ![image](https://github.com/Elizabeth140702/PuntoVenta-Autopartes/assets/84193277/36545113-9627-4392-8baa-c589616c8fbc)
 
-
+El programa finaliza cuando se da clic en el botón de "Salir", ya que éste cierra la sesión y nos redirecciona a la página del login.
